@@ -3,7 +3,10 @@ import { render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 
 import MainContent from './MainContent';
-//my test
+
+// Testing [skip ci]
+// Add another comment
+
 describe('MainContent', () => {
   it('should render a button', () => {
     render(<MainContent />);
