@@ -4,7 +4,7 @@ import userEvent from '@testing-library/user-event';
 
 import MainContent from './MainContent';
 
-// Testing [skip ci]
+// Testing
 // Add another comment
 
 describe('MainContent', () => {
